@@ -29,8 +29,8 @@ National University's LAW 320 (Fall 2023) presented three essay-based questions 
 
 By contrast, Punyashlok Ahilyadevi Holkar Solapur University's exams encompassed constitutional fundamentals across multiple dimensions:
 
-- The Preamble and constitutional objectives
-- Union and territorial structure
+- The Preamble and Objective Resolution (22 January 1947)
+- Union and Its Territory
 - Fundamental Rights
 - Directive Principles of State Policy
 - Separation of powers
