@@ -6,7 +6,7 @@ A comparative analysis of constitutional law topic selection in US and Indian le
 
 This study examines the alignment and divergence in constitutional law topics tested across J.D. (Juris Doctor, United States) and LL.B. (Bachelor of Laws, India) examinations. The analysis uses publicly available examination records to characterize curricula and assess how topic emphasis differs between the two legal education systems.
 
-## Data sources
+## Sources
 
 - **US National University:** public examination repository (J.D. program)
 - **PAH Solapur University:** public examination repository (LL.B. program)
