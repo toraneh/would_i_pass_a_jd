@@ -11,17 +11,8 @@ This study examines the alignment and divergence in constitutional law topics te
 - **US National University:** public examination repository (J.D. program)
 - **PAH Solapur University:** public examination repository (LL.B. program)
 
-## Contents
 
-- **analysis.R** – R code for comparative analysis
-- **paper.md** – full analysis in Markdown format
-- **paper.pdf** – PDF version of the paper
-- **data/** – extracted examination data
 
 ## Citation
 
 > Torane, H. "Would I Pass a J.D.? Topic Selection in Constitutional Law Examinations: A Comparative Analysis of the J.D. and LL.B. Programs". *Preprint*. Zenodo, September 22, 2026. https://doi.org/10.5281/zenodo.22234567
-
-## License
-
-Code and materials are provided for research and educational use.
